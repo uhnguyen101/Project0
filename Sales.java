@@ -19,7 +19,7 @@ public class Sales {
         Scanner input = new Scanner(System.in); // scanner for user input
         boolean quit = false; // bool to check if user wants to quit program
 
-        while (!quit)
+        while (!quit
         {
             System.out.println("Please choose one of the following options by typing in the corresponding number:");
             System.out.println("1 - Add a sale to our sales file.");
