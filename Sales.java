@@ -4,6 +4,15 @@
 import java.util.*; // scanner
 import java.io.*; // file libraries, exceptions
 
+/**
+ * This is a program that creates a file and allows users
+ * to read, write, and compute values.
+ *
+ * @author  UyenNghi Nguyen
+ * @version 1.0
+ * @since   2022-01-31
+ */
+
 public class Sales {
     public static void main(String[] args) throws Exception // throws all exceptions
     {
