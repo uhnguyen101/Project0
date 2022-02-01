@@ -6,6 +6,6 @@
 
 **Link to Screencast:** https://youtu.be/1N5im5QqRpA
 
-**Screencast:** Zoom 
+**Screencast:** Zoom Version: 5.9.1 (2581)
 
-**IDE:** IntelliJ
+**IDE:** IntelliJ IDEA Community Edition 2021.2.1
